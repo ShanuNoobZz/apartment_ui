@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   sodipodi:docname="plant.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:pageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.35355339"
+     inkscape:cx="701.44992"
+     inkscape:cy="725.49155"
+     inkscape:window-width="1366"
+     inkscape:window-height="694"
+     inkscape:window-x="0"
+     inkscape:window-y="38"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       id="linearGradient1481"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1477" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop1479" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#60a764;stroke:none;stroke-width:2.45414"
+       d="m 98.725159,208.25356 c 14.859821,-5.22517 6.863501,-23.15981 16.510491,-33.35823 9.70778,-10.26269 26.58641,3.20636 37.37261,-9.10631 27.92742,-31.88027 -3.23798,-64.98917 -33.6894,-35.38455 -10.32438,10.03739 -6.31087,27.88883 -10.37716,41.03694 h -7.36243 c -3.07594,-16.56817 2.94182,-38.73718 -9.674438,-51.71323 -11.252017,-11.57249 -45.255168,-19.33868 -43.850857,5.0865 2.085318,36.26405 25.717902,22.68704 42.928594,42.08192 8.477065,9.55321 7.890761,29.15272 8.14259,41.35696 z"
+       id="path27955"
+       inkscape:export-filename="/home/shanu/ToolZz/Assets/path27955.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+  </g>
+</svg>
